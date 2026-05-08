@@ -420,3 +420,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 .azure
+
+# manual
+evaluation_results.txt
